@@ -1,0 +1,21 @@
+{
+    "nom": "diallo",
+    "joueurs": [
+        {
+            "pseudo": "PlayerOne",
+            "victoires": 2
+        },
+        {
+            "pseudo": "PlayerTwo",
+            "victoires": 1
+        },
+        {
+            "pseudo": "PlayerThree",
+            "victoires": 1
+        },
+        {
+            "pseudo": "PlayerFour",
+            "victoires": 0
+        }
+    ]
+}

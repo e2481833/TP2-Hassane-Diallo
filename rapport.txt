@@ -1,0 +1,13 @@
+Tournoi : feq
+
+Matchs joués :
+PlayerOne 3 - 4 PlayerTwo
+PlayerThree 3 - 2 PlayerFour
+PlayerOne 5 - 6 PlayerThree
+PlayerTwo 7 - 8 PlayerFour
+
+Classement final :
+PlayerThree - Victoires : 2
+PlayerTwo - Victoires : 1
+PlayerFour - Victoires : 1
+PlayerOne - Victoires : 0
